@@ -1,4 +1,4 @@
-# Hi , I'm Ivo 👋
+# Hi, I'm Ivo 👋
 
 ##  📚 Studying computer science @ [VŠB](https://www.fei.vsb.cz/en)
 
